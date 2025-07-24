@@ -1,4 +1,4 @@
-# fyp
+# My Final Year Project
 
 A new Flutter project.
 
